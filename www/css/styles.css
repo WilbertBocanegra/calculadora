@@ -1,0 +1,15 @@
+.color-custom { color: #000000 }
+
+.size-22 { font-size: 22px }
+.size-25 { font-size: 25px }
+.size-29 { font-size: 29px }
+.size-50 { font-size: 40px }
+
+.white{
+  background-color:white
+}
+
+.title-wilbert{
+  font-size:56px;
+  font-weight:600;
+}
